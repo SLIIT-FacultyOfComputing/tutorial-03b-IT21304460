@@ -4,7 +4,7 @@ int volume(int height, int width, int length);
 
 struct Box{
 
-   int height,width,length,volume;
+   int height,width,length;
    
 }box1,box2;
  
